@@ -340,6 +340,15 @@ template {
   display: none;
 }
 
+a {
+  text-decoration: none;
+  color: #95a5a6;
+}
+
+a:hover {
+  color: #3498db;
+  background-color: #ecf0f1;
+}
 /**
  * Add the correct display in IE 10.
  */
