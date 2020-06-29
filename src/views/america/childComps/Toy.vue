@@ -1,32 +1,32 @@
 <template>
   <div class="item">
       <div class="title">
-        <p>罗小黑战记<span>（2019）</span></p>
-        <p class="score">豆瓣评分：<span>8.2</span></p>
+        <p>玩具总动员4 Toy Story 4<span>（2019）</span></p>
+        <p class="score">豆瓣评分：<span>8.6</span></p>
       </div>
       <div class="content">
-        <img src="~assets/img/罗小黑战记/罗小黑.jpg" alt="">
+        <img src="~assets/img/玩具总动员/玩具总动员.jpg" alt="">
         <div class="right">
           <div class="context">
-            <p>导演：<a href="">木头</a></p>
-            <p>编剧：<a href="">木头 / 彭可欣 / 风息神泪</a></p>
-            <p>主演：<a href="">山新 / 郝祥海 / 刘明月 /</a></p>
-            <p>类型：<span> 动作 / 动画 / 奇幻 </span></p>
-            <p>制片国家/地区：<span>中国大陆</span></p>
-            <p>语言：<span>汉语普通话</span></p>
-            <p>上演日期：<span>2019-09-07(中国大陆) / 2019-08-27(大规模点映)</span></p>
-            <p>片长：<span>101分钟</span></p>
-            <p>又名：<span>罗小黑战记大电影 / The Legend of Hei</span></p>
+            <p>导演：<a href="">乔什·库雷</a></p>
+            <p>编剧：<a href="">约翰·拉塞特 / 安德鲁·斯坦顿 / 彼特·道格特 / 李·昂克里奇 / 威尔·麦克马克 / 史黛芬妮·福尔松 / C·S·安德森</a></p>
+            <p>主演：<a href=""> 汤姆·汉克斯 / 蒂姆·艾伦 / 安妮·波茨 / 托尼·海尔 / 科甘-迈克尔·凯 /</a>更多...</p>
+            <p>类型：<span> 喜剧 / 动画 / 奇幻 </span></p>
+            <p>制片国家/地区：<span>美国</span></p>
+            <p>语言：<span>英语</span></p>
+            <p>上演日期：<span>2019-06-21(美国/中国大陆)</span></p>
+            <p>片长：<span>100分钟</span></p>
+            <p>又名：<span>反斗奇兵4(港)</span></p>
             <p>IMDb链接：<a href="">tt10734928</a></p>
           </div>
         </div>
       </div>
       <div class="emotion">
         <p>20个评论高频情感词</p>
-        <img src="~assets/img/罗小黑战记/罗小黑_20keywords.jpg" alt="">
+        <img src="~assets/img/玩具总动员/玩具总动员_20keywords.jpg" alt="">
 
         <p>词云图</p>
-        <img class="wave" src="~assets/img/罗小黑战记/罗小黑_词云.jpg" alt="">
+        <img class="wave" src="~assets/img/玩具总动员/玩具总动员_词云.jpg" alt="">
       </div>
   </div>
 </template>

@@ -1,32 +1,32 @@
 <template>
   <div class="item">
       <div class="title">
-        <p>罗小黑战记<span>（2019）</span></p>
-        <p class="score">豆瓣评分：<span>8.2</span></p>
+        <p>狮子王 The Lion King<span>（2019）</span></p>
+        <p class="score">豆瓣评分：<span>7.4</span></p>
       </div>
       <div class="content">
-        <img src="~assets/img/罗小黑战记/罗小黑.jpg" alt="">
+        <img src="~assets/img/狮子王/狮子王.jpg" alt="">
         <div class="right">
           <div class="context">
-            <p>导演：<a href="">木头</a></p>
-            <p>编剧：<a href="">木头 / 彭可欣 / 风息神泪</a></p>
-            <p>主演：<a href="">山新 / 郝祥海 / 刘明月 /</a></p>
-            <p>类型：<span> 动作 / 动画 / 奇幻 </span></p>
-            <p>制片国家/地区：<span>中国大陆</span></p>
-            <p>语言：<span>汉语普通话</span></p>
-            <p>上演日期：<span>2019-09-07(中国大陆) / 2019-08-27(大规模点映)</span></p>
-            <p>片长：<span>101分钟</span></p>
-            <p>又名：<span>罗小黑战记大电影 / The Legend of Hei</span></p>
+            <p>导演：<a href="">乔恩·费儒</a></p>
+            <p>编剧：<a href="">杰夫·内桑森 / 布兰达∙查普曼 / 艾琳·梅琪 / 乔纳森·罗伯茨 / 琳达·伍尔芙顿</a></p>
+            <p>主演：<a href=""> 唐纳德·格洛弗 / 阿尔法·伍达德 / 詹姆斯·厄尔·琼斯 / 切瓦特·埃加福 / 科甘-迈克尔·凯 /</a>更多...</p>
+            <p>类型：<span> 剧情 / 动画 / 冒险 </span></p>
+            <p>制片国家/地区：<span>美国</span></p>
+            <p>语言：<span>英语 / 科萨语</span></p>
+            <p>上演日期：<span>2019-07-12(中国大陆) / 2019-07-19(美国)</span></p>
+            <p>片长：<span>118分钟</span></p>
+            <p>又名：<span>狮子王真狮版 / 狮子王真实版 / 狮子王真人版</span></p>
             <p>IMDb链接：<a href="">tt10734928</a></p>
           </div>
         </div>
       </div>
       <div class="emotion">
         <p>20个评论高频情感词</p>
-        <img src="~assets/img/罗小黑战记/罗小黑_20keywords.jpg" alt="">
+        <img src="~assets/img/狮子王/狮子王_20keywords.jpg" alt="">
 
         <p>词云图</p>
-        <img class="wave" src="~assets/img/罗小黑战记/罗小黑_词云.jpg" alt="">
+        <img class="wave" src="~assets/img/狮子王/狮子王_词云.jpg" alt="">
       </div>
   </div>
 </template>

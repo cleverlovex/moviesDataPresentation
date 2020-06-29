@@ -1,7 +1,7 @@
 <template>
   <div id='main'>
     <img src="~assets/img/豆瓣.png" alt="">
-    <span>2019高分动漫电影情感分析结果</span>
+    <span>2019热门高分动漫电影情感分析结果</span>
   </div>
 </template>
 

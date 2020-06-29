@@ -1,32 +1,33 @@
 <template>
   <div class="item">
       <div class="title">
-        <p>罗小黑战记<span>（2019）</span></p>
-        <p class="score">豆瓣评分：<span>8.2</span></p>
+        <p>航海王：狂热行动 ONE PIECE STAMPEDE<span>（2019）</span></p>
+        <p class="score">豆瓣评分：<span>7.7</span></p>
       </div>
       <div class="content">
-        <img src="~assets/img/罗小黑战记/罗小黑.jpg" alt="">
+        <img src="~assets/img/海贼王/海贼王.jpg" alt="">
         <div class="right">
           <div class="context">
-            <p>导演：<a href="">木头</a></p>
-            <p>编剧：<a href="">木头 / 彭可欣 / 风息神泪</a></p>
-            <p>主演：<a href="">山新 / 郝祥海 / 刘明月 /</a></p>
-            <p>类型：<span> 动作 / 动画 / 奇幻 </span></p>
-            <p>制片国家/地区：<span>中国大陆</span></p>
-            <p>语言：<span>汉语普通话</span></p>
-            <p>上演日期：<span>2019-09-07(中国大陆) / 2019-08-27(大规模点映)</span></p>
+            <p>导演：<a href="">大塚隆史</a></p>
+            <p>编剧：<a href="">尾田荣一郎 / 大塚隆史 / 富冈淳广</a></p>
+            <p>主演：<a href=""> 田中真弓 / 冈村明美 / 中井和哉 / 山口胜平 / 平田广明 /</a>更多...</p>
+            <p>类型：<span>  动画 / 冒险 </span></p>
+            <p>官方网站:<a href="">www.onepiece-movie.jp</a></p>
+            <p>制片国家/地区：<span>日本</span></p>
+            <p>语言：<span>日语</span></p>
+            <p>上演日期：<span>2019-10-18(中国大陆) / 2019-08-09(日本)</span></p>
             <p>片长：<span>101分钟</span></p>
-            <p>又名：<span>罗小黑战记大电影 / The Legend of Hei</span></p>
-            <p>IMDb链接：<a href="">tt10734928</a></p>
+            <p>又名：<span>航海王：夺宝争霸战(台) / 海贼王：狂热行动</span></p>
+            <p>IMDb链接：<a href="">tt9430698</a></p>
           </div>
         </div>
       </div>
       <div class="emotion">
         <p>20个评论高频情感词</p>
-        <img src="~assets/img/罗小黑战记/罗小黑_20keywords.jpg" alt="">
+        <img src="~assets/img/海贼王/海贼王_20keywords.jpg" alt="">
 
         <p>词云图</p>
-        <img class="wave" src="~assets/img/罗小黑战记/罗小黑_词云.jpg" alt="">
+        <img class="wave" src="~assets/img/海贼王/海贼王_词云.jpg" alt="">
       </div>
   </div>
 </template>
